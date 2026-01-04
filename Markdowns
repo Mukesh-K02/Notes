@@ -1,0 +1,16 @@
+Markdowns:
+• #, ## and ### for Headings 1-3.
+• *words* or _words_ for italic
+• **words** or __words__ (two underscores) for bold
+• <ins>underlined</ins> for underlined text.
+• ***words*** for bold and italic
+• ~words~ or ~~words~~ for strikethrough.
+• <sub>words</sub> for subscript
+• <sup>words</sup> for superscript, and
+• > words to quote text
+• `words` (using a backtick) for code
+• [Microsoft] (www.Microsoft.com) for hyperlinks.
+• - words for bullet
+• However, you also use the icons to insert some of these as well.
+• You can also add HTML code inline (in the document)
+• For example: <a href="www.microsoft.com">My link</a>
